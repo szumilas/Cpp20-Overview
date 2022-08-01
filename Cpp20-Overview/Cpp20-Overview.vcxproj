@@ -145,6 +145,7 @@
   <ItemGroup>
     <ClCompile Include="CaptureVariadicPack.cpp" />
     <ClCompile Include="CheckIfContainerHasElement.cpp" />
+    <ClCompile Include="Concepts.cpp" />
     <ClCompile Include="ConstexprString.cpp" />
     <ClCompile Include="ConstexprVector.cpp" />
     <ClCompile Include="ConstexprVirtual.cpp" />
@@ -166,6 +167,7 @@
     <ClCompile Include="starts_with_ends_with.cpp" />
     <ClCompile Include="StringLiteralsAsTemplateParameters.cpp" />
     <ClCompile Include="TemplateParameterForLambdas.cpp" />
+    <ClCompile Include="Three-WayComparisonOperator.cpp" />
     <ClCompile Include="ToArray.cpp" />
     <ClCompile Include="UsingEnum.cpp" />
   </ItemGroup>

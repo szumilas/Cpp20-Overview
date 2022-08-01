@@ -90,5 +90,11 @@
     <ClCompile Include="Modules.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Concepts.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Three-WayComparisonOperator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

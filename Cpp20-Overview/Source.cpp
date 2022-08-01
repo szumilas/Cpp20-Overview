@@ -22,6 +22,7 @@ namespace ConstexprString { void foo(); }
 namespace FormattingLibrary { void foo(); }
 namespace Ranges { void boo(); }
 namespace Ranges { void doo(); }
+namespace ThreeWayComparisonOperator { void foo(); }
 
 import ModuleFoo;
 
@@ -51,4 +52,5 @@ int main()
 	//FormattingLibrary::foo();
 	//Ranges::doo();
 	//Modules::foo();
+	//ThreeWayComparisonOperator::foo();
 }
